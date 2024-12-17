@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "semicolon": true,
+  "cl": "console.log",
+  "printWidth": 80
+}
